@@ -1,6 +1,6 @@
 
 function saludar(){
-	console.log("Hola Mundo");
+	console.log("Adios Diana");
 }
 
 saludar();
