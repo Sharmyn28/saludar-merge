@@ -1,6 +1,7 @@
 
 function saludar(){
-	console.log("Hola Mundo");
+	document.write("Adios ana");
+
 }
 
 saludar();
