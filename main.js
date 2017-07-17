@@ -1,8 +1,7 @@
 
 function saludar(){
-
-	document.write("Adios ana");
 	console.log("Adios Diana");
+	document.write("Adios ana");
 }
 
 saludar();
